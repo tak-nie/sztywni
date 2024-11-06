@@ -84,18 +84,7 @@ Dostosowanie do urządzeń o różnych specyfikacjach, aby zapewnić kompatybiln
 
 V. Diagram strony
 
-
-Użytkownik
-     -
-     >
-Interfejs użytkownika
-(Strona webowa)
-     -
-     >
-Strona serwerowa
-     -
-     >
-Serwer bazy danych
+![Diagram bez tytułu drawio](https://github.com/user-attachments/assets/dcbb12a7-a9ce-400e-9eef-0b129d3bf585)
 
 Opis diagramu
  
