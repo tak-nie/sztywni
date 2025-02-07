@@ -14,13 +14,13 @@ function App() {
   const [fixtures, setFixtures] = useState(data);
 
   // Uncomment this part if you want it to  fetch data from RAPIDAPI
-  // const fetchInfo = async () => {
-  //   const data = await fetchFixtures();
-  //   setFixtures(data);
+   //const fetchInfo = async () => {
+    // const data = await fetchFixtures();
+    // setFixtures(data);
   // };
 
   // useEffect(() => {
-  //   fetchInfo();
+   //  fetchInfo();
   // }, []);
 
   console.log(fixtures);
